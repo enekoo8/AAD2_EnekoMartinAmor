@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\creditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\creditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\githubuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\githubuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\ventaentrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\ventaentrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\ventaentrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\ventaentrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\infopeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\infopeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\infopeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\infopeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|c:\\dam3\\2\u00BA\\accesoadatos\\vb_workspace\\aad2_enekomartinamor\\aad2_enekomartinamor\\creditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6E06F3E6-1852-45B3-8CB1-4FE364490A4A}|AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor.vbproj|solutionrelative:aad2_enekomartinamor\\creditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InfoPeli.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\InfoPeli.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\InfoPeli.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\InfoPeli.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\InfoPeli.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T11:33:10.856Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Form1.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\Form1.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:14:58.595Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaEntrada.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\VentaEntrada.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\VentaEntrada.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\VentaEntrada.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\VentaEntrada.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:42:44.109Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfoPeli.vb",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\InfoPeli.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\InfoPeli.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\InfoPeli.vb",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\InfoPeli.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:27:15.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaEntrada.vb",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\VentaEntrada.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\VentaEntrada.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\VentaEntrada.vb",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\VentaEntrada.vb",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwC4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T11:44:35.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Creditos.vb",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Creditos.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\Creditos.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Creditos.vb",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\Creditos.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T08:03:51.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GithubUser.vb",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\GithubUser.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\GithubUser.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\GithubUser.vb",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\GithubUser.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T08:15:09.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Form1.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\Form1.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Form1.vb",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\Form1.vb",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T10:25:07.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pelicula.vb",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Pelicula.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\Pelicula.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Pelicula.vb",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\Pelicula.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T12:04:34.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Creditos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Creditos.vb",
+              "RelativeDocumentMoniker": "AAD2_EnekoMartinAmor\\Creditos.vb",
+              "ToolTip": "C:\\DAM3\\2\u00BA\\AccesoADatos\\VB_WorkSpace\\AAD2_EnekoMartinAmor\\AAD2_EnekoMartinAmor\\Creditos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_EnekoMartinAmor\\Creditos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:58:55.334Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
