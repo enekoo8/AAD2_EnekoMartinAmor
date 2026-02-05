@@ -1,0 +1,37 @@
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `pelicula`
+--
+
+CREATE TABLE `pelicula` (
+  `titulo` varchar(50) NOT NULL,
+  `anio_estreno` int(4) NOT NULL,
+  `duracion` varchar(15) NOT NULL,
+  `sinopsis` varchar(500) NOT NULL,
+  `url_imagen` varchar(100) NOT NULL,
+  `entradas_disponibles` int(3) NOT NULL,
+  `precio` double NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Volcado de datos para la tabla `pelicula`
+--
+
+INSERT INTO `pelicula` (`titulo`, `anio_estreno`, `duracion`, `sinopsis`, `url_imagen`, `entradas_disponibles`, `precio`) VALUES
+('Jumanji: Bienvenidos a la jungla', 2017, '1h 59 min', 'Cuatro adolescentes son absorbidos por un videojuego, en el que se convierten en avatares de personajes arquetípicos. Allí vivirán múltiples aventuras, al tiempo que buscan cómo salir de allí para volver a su mundo', 'https://www.lahiguera.net/cinemania/pelicula/7241/jumanji_bienvenidos_a_la_jungla-cartel-7851.jpg', 180, 4.5),
+('La asistenta', 2025, '131 min', 'Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.', 'https://es.web.img3.acsta.net/c_310_420/img/71/83/7183a7a55e47f98332d9ef93b5518384.jpg', 6, 9.5),
+('Los futbolísimos', 2018, '95 min', 'Comedia de aventuras protagonizada por una pandilla de niños que, por salvar a su equipo de fútbol, se meterán en todo tipo de problemas en los que su ingenio y su amistad serán puestos a prueba. El Soto Alto F.C. es el nombre del equipo, y en él juegan, entre otros, Pakete, Camuñas, Angustias, Helena y Toni. Todos tienen una misión fundamental: ganar los dos próximos partidos para evitar que la asociación de madres y padres de alumnos cierren el club. Si bajan a segunda, se acabó el equipo.', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbAJDzusECVB9xTnteziaFfnwZr7c5SvOoA&s', 124, 5),
+('Luca', 2021, '95 min', 'La historia se desarrolla en un hermoso pueblo al lado del mar en la Riviera Italiana. Es la del crecimiento de un niño que experimenta un verano inolvidable con helado, pasta e interminables viajes en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un gran secreto: es un monstruo marino de otro mundo ubicado justo debajo de la superficie del agua.', 'https://www.dcine.org/sites/default/files/carteles/luca-pelicula-2021-cartel-espanol.jpg', 117, 6.5),
+('Resacón en Las Vegas', 2009, '100 min', 'Historia de una desmadrada despedida de soltero en la que el novio y tres amigos se montan una gran juerga en Las Vegas. Como era de esperar, a la mañana siguiente tienen una resaca tan monumental que no pueden recordar nada de lo ocurrido la noche anterior. Lo más extraordinario es que el novio ha desaparecido y en la suite del hotel se encuentran un tigre y un bebé.', 'https://es.web.img3.acsta.net/medias/nmedia/18/69/99/97/20028573.jpg', 0, 3.9);
+
+--
+-- Índices para tablas volcadas
+--
+
+--
+-- Indices de la tabla `pelicula`
+--
+ALTER TABLE `pelicula`
+  ADD PRIMARY KEY (`titulo`);
+COMMIT;
